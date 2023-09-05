@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryantRChow
 - :mortar_board: I’m currently working towards a B.S. computer science degree at the :large_orange_diamond: University of Virginia :large_blue_diamond:
-- :computer: I'm a second year with knowledge in :small_blue_diamond: Python, Java, C++, and HTML :small_blue_diamond:
-- :bulb:  I'm currently looking to further my software development experience with an internship
+- :computer: I'm a fourth year with knowledge in :small_blue_diamond: Python, Java, C++, and HTML :small_blue_diamond:
+- :bulb:  I'm currently looking to further my software development experience
 - :inbox_tray: Feel free to email me @bryantchow1029@gmail.com
 
 <!---
